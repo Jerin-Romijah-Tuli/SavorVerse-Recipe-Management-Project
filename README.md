@@ -63,6 +63,16 @@ For a detailed step-by-step guide, refer to the **User Manual** linked above.
 
 ---
 
+## ⚙️ Installation Guide
+
+### 🔹 Prerequisites
+Ensure you have the following installed on your system:
+- **Node.js** (Latest LTS version) – [Download Here](https://nodejs.org/)
+- **npm** (Comes with Node.js) or **yarn** (Optional)
+- **Git** – [Download Here](https://git-scm.com/)
+- **A Code Editor** (VS Code recommended) – [Download Here](https://code.visualstudio.com/)
+
+  ---
 ## 🔮 Future Enhancements
 
 Savor Verse will continue to evolve with planned improvements such as:
