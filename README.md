@@ -1,108 +1,104 @@
-Savor Verse
+# Savor Verse
 
-Welcome to Savor Verse, an interactive and engaging platform that allows users to explore, discover, and quiz themselves on various global cuisines while managing their favorite recipes efficiently.
+Savor Verse is an interactive web application that allows users to explore various global cuisines through quizzes and recipe management. It provides seamless navigation to food categories and cuisine-based quizzes, making culinary discovery fun and engaging.
 
-📌 Features
+---
 
-🌎 Cuisine Exploration
+## ✨ Features
 
-Navigate through multiple categories:
+### 🍽️ Explore Food Categories
+Users can browse recipes across different categories:
+- **Snacks**
+- **Salad**
+- **Noodles & Pasta**
+- **Meal**
+- **Drinks**
 
-Snacks
+### 🌍 Cuisine-Based Quizzing
+Quizzes are available for multiple cuisines, including:
+- **South Asian Cuisine**
+- **American Cuisine**
+- **Thai Cuisine**
+- **Chinese Cuisine**
+- **Japanese Cuisine**
+- **Australian Cuisine**
+- **Korean Cuisine**
+- **Italian Cuisine**
 
-Salad
+### 🔍 Dynamic Filtering
+- Clicking on a category (e.g., **Snacks**) filters and displays only relevant items.
+- Selecting a cuisine takes users directly to the associated quizzes.
 
-Noodles & Pasta
+### ❤️ Favorite Recipes
+- Save favorite recipes for quick access.
+- Easily manage a personalized collection of recipes.
 
-Rice
+### 🏆 Engaging Quizzes
+- Test culinary knowledge with fun, interactive quizzes.
+- Earn points and track quiz performance.
 
-Drinks
+### 🔐 Secure Authentication
+- Register and log in to manage personal preferences.
+- Data protection ensures user privacy.
 
-Explore cuisine-based quizzes, including:
+---
 
-South Asian Cuisine
+## 🚀 Usage
 
-American Cuisine
+1. **Register & Log In**:
+   - Sign up to access personalized features.
+   - Manage saved recipes and quiz progress.
 
-Thai Cuisine
+2. **Browsing Recipes & Quizzes**:
+   - Click a category to view relevant food items.
+   - Select a cuisine to take quizzes about it.
 
-Chinese Cuisine
+3. **Filtering & Navigation**:
+   - The app dynamically filters results based on category or cuisine selection.
 
-Japanese Cuisine
+4. **Managing Favorites**:
+   - Mark and revisit favorite recipes anytime.
 
-Australian Cuisine
+For a detailed step-by-step guide, refer to the **User Manual** linked above.
 
-Korean Cuisine
+---
 
-Italian Cuisine
+## 🔮 Future Enhancements
 
-🔍 Intelligent Filtering & Navigation
+Savor Verse will continue to evolve with planned improvements such as:
+1. **AI-Powered Recipe Suggestions** – Personalized recommendations based on user preferences.
+2. **Community Features** – Users can share, review, and rate recipes.
+3. **Multilingual Support** – Expanding accessibility with multiple language options.
+4. **Advanced Search & Filtering** – Improved navigation with keyword-based searches.
+5. **Dark Mode** – A customizable theme for better user experience.
 
-Clicking on a category (e.g., Snacks) will take users directly to the respective page displaying relevant items.
+---
 
-Selecting a specific cuisine will filter and display quizzes related to that cuisine.
+## 📜 License
 
-Seamless transition between different categories and cuisines for an enhanced user experience.
+This project is the intellectual property of **Zareen Romiza Tuli**.  
+Unauthorized copying, modification, or distribution is strictly prohibited.  
 
-🏆 Quizzing System
+All rights reserved © **Zerin Romijah Tuli**
 
-Engage in interactive quizzes tailored to different cuisines.
+---
 
-Test and improve your knowledge about global food culture.
+## 👩‍💻 About the Developer
 
-❤️ Favorite Recipes Management
+👩‍💻 **Zerin Romijah Tuli**  
+📚 **Rajshahi University of Engineering and Technology (RUET)**  
+🎓 **Department of Computer Science and Engineering (CSE), 3rd Year**  
+📧 **Email**: [your-ramijahtuli786@gmail.com](mailto:ramijahtuli786@gmail.com)  
 
-Mark recipes as favorites for quick access.
+### 🔍 Areas of Interest
+- Data Science & AI
+- Machine Learning (ML)
+- App Development
+- Web Development (Django, Laravel)
 
-View a personalized collection of favorite recipes.
+Aspiring to become a **Data Scientist & AI Researcher**, passionate about creating impactful tech solutions.
 
-🚀 Installation & Setup
+---
 
-Clone the repository:
 
-git clone https://github.com/yourusername/savor-verse.git
-
-Navigate to the project directory:
-
-cd savor-verse
-
-Install dependencies:
-
-npm install  # or yarn install
-
-Run the development server:
-
-npm start  # or yarn start
-
-🛠 Technologies Used
-
-Frontend: React.js / Vue.js (Specify if applicable)
-
-Backend: Node.js / Express.js (Specify if applicable)
-
-Database: MongoDB / MySQL (Specify if applicable)
-
-Styling: Tailwind CSS / Bootstrap
-
-🤝 Contribution Guidelines
-
-Fork the repository.
-
-Create a new branch:
-
-git checkout -b feature-branch
-
-Make your changes and commit:
-
-git commit -m "Add new feature"
-
-Push to your fork and submit a Pull Request.
-
-📜 License
-
-This project is licensed under the Savor Verse.
-
-📞 Contact
-
-For any queries or suggestions, feel free to reach out via GitHub Issues or email at [ramijahtuli786@gmail.com].
-
+Feel free to explore and contribute to the **Savor Verse** project!
