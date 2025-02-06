@@ -1,0 +1,21 @@
+TRUNCATE TABLE users;
+php artisan db:seedphp 
+
+1. Check Database Configuration
+Make sure your database is correctly set up and there are no issues with migrations or connections.
+
+Run:
+
+bash
+Copy
+Edit
+php artisan migrate:refresh --seed
+This will drop all tables, re-run migrations, and re-seed the database.
+
+2. Manually Run the Seeder
+If you have already migrated your database, run the seeder separately:
+
+bash
+Copy
+Edit
+php artisan db:seed --class=RecipeSeeder
