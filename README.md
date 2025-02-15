@@ -86,16 +86,16 @@ Savor Verse will continue to evolve with planned improvements such as:
 
 ## 📜 License
 
-This project is the intellectual property of **Zareen Romiza Tuli**.  
+This project is the intellectual property of **Jerin Romijah Tuli**.  
 Unauthorized copying, modification, or distribution is strictly prohibited.  
 
-All rights reserved © **Zerin Romijah Tuli**
+All rights reserved © **Jerin Romijah Tuli**
 
 ---
 
 ## 👩‍💻 About the Developer
 
-👩‍💻 **Zerin Romijah Tuli**  
+👩‍💻 **Jerin Romijah Tuli**  
 📚 **Rajshahi University of Engineering and Technology (RUET)**  
 🎓 **Department of Computer Science and Engineering (CSE), 3rd Year**  
 📧 **Email**: [your-ramijahtuli786@gmail.com](mailto:ramijahtuli786@gmail.com)  
